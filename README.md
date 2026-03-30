@@ -47,7 +47,7 @@ Bike usage is strongly driven by a combination of weather conditions, temperatur
 ### Peak Demand Conditions
 Peak demand occurs during sunny days with perceived temperatures between 25–35°C, especially toward the end of the work week.
 
-![Peak Time](peaktime.png)
+![Peak Time](peak-time.png)
 
 
 ### Weather Impact
